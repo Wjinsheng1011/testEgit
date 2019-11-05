@@ -9,5 +9,7 @@ public class HelloEgit {
 		System.out.println("克隆成功！");
 		System.out.println("22222！");
 		System.out.println("22222！");
+		System.out.println("111！");
+		System.out.println("111！");
 	}
 }
